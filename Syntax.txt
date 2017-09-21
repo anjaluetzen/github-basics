@@ -17,4 +17,6 @@ You can add emoji to your writing by typing :EMOJICODE:.
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
-Link til Github hjælp: [https://help.github.com/articles/basic-writing-and-formatting-syntax/]
+Link til Github hjælp: (https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+
