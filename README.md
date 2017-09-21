@@ -1,3 +1,3 @@
 # github-basics
 ## test af **Githubs** _fortrinligheder_
-Link til [Danmarks radio] (http://dr.dk/)
+Link til [dr.dk] (http://dr.dk/)
