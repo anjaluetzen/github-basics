@@ -6,3 +6,4 @@ Link til http://dr.dk/
 - Gennemskrive notater fra skypemøde
 - Læse korrektur af teksten
 - Godkende ændringer
+- Sende link til repo til Michael
