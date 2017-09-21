@@ -12,3 +12,9 @@ You can make a list by preceding one or more lines of text with - or *.
 - George Washington
 - John Adams
 - Thomas Jefferson
+
+You can add emoji to your writing by typing :EMOJICODE:.
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+
