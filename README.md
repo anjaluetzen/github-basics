@@ -1,6 +1,6 @@
 # github-basics
 ## test af **Githubs** _fortrinligheder_
-Link til http://dr.dk/
+Link til [DR](http://dr.dk)
 
 ### Huskeliste:
 - Gennemskrive notater fra skypemøde
